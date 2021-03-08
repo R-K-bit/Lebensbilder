@@ -3,16 +3,16 @@ body {
 }
 
 h1 {
-	font-family: new times;
+	font-family: "papyrus";
 	text-align: center;
 }
 
 p {
 	color: black;
-	font-family: new times;
+	font-family: papyrus;
 	background-color: lightgrey;
 	text-align: center;
-	text-size: 30pt;
+	font-size: 30px;
 }
 
 dev {
