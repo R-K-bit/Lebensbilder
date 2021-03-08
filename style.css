@@ -3,16 +3,16 @@ body {
 }
 
 h1 {
-	font-family: "papyrus";
+	font-family: Papyrus;
 	text-align: center;
 }
 
 p {
 	color: black;
-	font-family: papyrus;
+	font-family: Papyrus, sans-serif;
 	background-color: lightgrey;
 	text-align: center;
-	font-size: 100px;
+	font-size: 50px;
 }
 
 dev {
