@@ -1,0 +1,27 @@
+body {
+	  background: rgba(255, 102, 0, 0.7);
+}
+
+h1 {
+	font-family: new times;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-family: new times;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+dev {
+	color: blue;
+	text-align: center;
+	background-color: lightgrey;
+}
+
+button {
+	color: black;
+	text-align: center;
+	font-family: new times;
+}
