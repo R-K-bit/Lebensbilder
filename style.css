@@ -16,10 +16,10 @@ p {
 	font-size: 3vw;
 }
 
-dev {
-	color: blue;
-	text-align: center;
-	background-color: lightgrey;
+div  {
+	color: black;
+	text-align: left;
+	font-size: 2vw;
 }
 
 button {
