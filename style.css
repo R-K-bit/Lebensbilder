@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-	font-size: 5vw;
+	font-size: 4vw;
 	font-family: Papyrus;
 	text-align: center;
 }
@@ -26,7 +26,11 @@ div  {
 
 button {
 	color: black;
+	background-color: lightgrey;
 	text-align: center;
 	font-family: Papyrus;
 	font-size: 2vw;
+	padding: 15px 32px;
+	border: none;
+	display: inline-block;
 }
