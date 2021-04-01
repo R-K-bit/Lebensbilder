@@ -13,7 +13,14 @@ p {
 	font-family: Papyrus;
 	background-color: lightgrey;
 	text-align: center;
-	font-size: 3vw;
+	font-size: 2.5vw;
+}
+
+h5 {
+	color: black;
+	font-family: Papyrus;
+	text-align: right;
+	font-size: 1.5vw;
 }
 
 div  {
