@@ -41,3 +41,34 @@ button {
 	border: none;
 	display: inline-block;
 }
+
+@media screen and (max-width: 600px) {
+
+h1 {
+	font-size: 4vw;
+	font-family: Papyrus;
+	text-align: center;
+}
+
+p {
+	color: black;
+	font-family: Papyrus;
+	background-color: lightgrey;
+	text-align: center;
+	font-size: 2.5vw;
+}
+
+h5 {
+	font-size: 2.5vw;
+}
+
+div  {
+	font-size: 2vw;
+}
+
+button {
+	font-size: 3vw;
+	padding: 1.5vw 3vw;
+	border: none;
+	display: inline-block;
+}}
