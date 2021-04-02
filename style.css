@@ -45,17 +45,11 @@ button {
 @media screen and (max-width: 600px) {
 
 h1 {
-	font-size: 4vw;
-	font-family: Papyrus;
-	text-align: center;
+	font-size: 6vw;
 }
 
 p {
-	color: black;
-	font-family: Papyrus;
-	background-color: lightgrey;
-	text-align: center;
-	font-size: 2.5vw;
+	font-size: 5vw;
 }
 
 h5 {
@@ -63,12 +57,10 @@ h5 {
 }
 
 div  {
-	font-size: 2vw;
+	font-size: 5vw;
 }
 
 button {
 	font-size: 3vw;
-	padding: 1.5vw 3vw;
-	border: none;
-	display: inline-block;
+	padding: 2vw 4vw;
 }}
