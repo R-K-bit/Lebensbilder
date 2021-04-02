@@ -44,6 +44,10 @@ button {
 
 @media screen and (max-width: 600px) {
 
+body {
+	background: lightblue;
+}
+
 h1 {
 	font-size: 6vw;
 }
